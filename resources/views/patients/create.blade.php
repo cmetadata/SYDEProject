@@ -10,7 +10,7 @@
         
         <div class="login-form">
 
-        <h1 class="title2 grey-back">Rooms</h1>
+        <h1 class="title2 grey-back">Add Patient</h1>
         
         <div class="grey-back buffer text-center">
 
@@ -21,6 +21,11 @@
 
             <div class="form-group">
                 <label for="organizationName">Room Number:</label>
+                <input type="text" class="form-control" id="organizationName" name="organizationName" required>
+            </div>
+
+            <div class="form-group">
+                <label for="organizationName">Doctor Number:</label>
                 <input type="text" class="form-control" id="organizationName" name="organizationName" required>
             </div>
 
