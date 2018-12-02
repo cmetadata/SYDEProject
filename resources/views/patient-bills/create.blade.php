@@ -15,9 +15,38 @@
         <div class="grey-back buffer">
 
             <div class="form-group">
-                <label for="organizationName">Bill Type:</label>
+                <label for="organizationName">Patient Number:</label>
                 <input type="text" class="form-control" id="organizationName" name="organizationName" required>
             </div>
+
+            <div class="form-group">
+                <label for="organizationName">Patient Name:</label>
+                <input type="text" class="form-control" id="organizationName" name="organizationName" required>
+            </div>
+
+            <div class="form-group">
+
+
+                <div class="checkbox">
+
+                    <label><input type="checkbox" value="">Semiprivate Room</label>
+                    <label><input type="checkbox" value="">Private Room</label>
+                    <label><input type="checkbox" value="" disabled>Television</label>
+                    <br/>
+                    <br/>
+                    
+                    <label><input type="checkbox" value="">Labratory</label>                    
+                    <label><input type="checkbox" value="" disabled>Glucose</label>
+                    <br/>
+                    <br/>
+
+                    <label><input type="checkbox" value="">Radiology</label>                                        
+                    <label><input type="checkbox" value="" disabled>Chest XRay</label>
+
+                </div>             
+
+            </div>             
+
 
             <button type="submit" class="btn btn-default">Submit</button>
 

@@ -135,3 +135,8 @@ a.footerlink:hover, a.footerlink:active {
 .buffer {
     padding: 20px;
 }
+
+.move-left {
+    width: auto;
+    box-shadow: none;
+  }
