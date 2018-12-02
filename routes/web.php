@@ -31,11 +31,13 @@ Route::get('/physicians/edit', 'PhysicianController@edit');
 
 //ROOMS
 Route::get('/rooms/show', 'RoomController@show');
+Route::get('/rooms/create', 'RoomController@create');
 Route::get('/rooms', 'RoomController@index');
 Route::get('/rooms/edit', 'RoomController@edit');
 
 //ITEMS
 Route::get('/items/show', 'ItemController@show');
+Route::get('/items/create', 'ItemController@create');
 Route::get('/items', 'ItemController@index');
 Route::get('/items/edit', 'ItemController@edit');
 
