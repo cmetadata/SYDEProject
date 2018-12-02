@@ -20,11 +20,13 @@ Route::get('/help', function () {
 });
 
 //PATIENTS
+Route::get('/patients/create', 'PatientController@create');
 Route::get('/patients/show', 'PatientController@show');
 Route::get('/patients', 'PatientController@index');
 Route::get('/patients/edit', 'PatientController@edit');
 
 //PHYSICIANS
+Route::get('/physicians/create', 'PhysicianController@create');
 Route::get('/physicians/show', 'PhysicianController@show');
 Route::get('/physicians', 'PhysicianController@index');
 Route::get('/physicians/edit', 'PhysicianController@edit');
