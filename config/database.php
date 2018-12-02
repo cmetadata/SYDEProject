@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'pgsql'),
+    'default' => env('DB_CONNECTION', 'mysql'),
 
     /*
     |--------------------------------------------------------------------------
@@ -58,16 +58,28 @@ return [
 
         'pgsql' => [
             'driver' => 'pgsql',
-            'host' => parse_url(getenv('DATABASE_URL'), PHP_URL_HOST),
-            'port' => parse_url(getenv('DATABASE_URL'), PHP_URL_PORT),
-            'database' => substr(parse_url(getenv('DATABASE_URL'), PHP_URL_PATH), 1),
-            'username' => parse_url(getenv('DATABASE_URL'), PHP_URL_USER),
-            'password' => parse_url(getenv('DATABASE_URL'), PHP_URL_PASS),
+            'host' => env('DB_HOST', '127.0.0.1'),
+            'port' => env('DB_PORT', '5432'),
+            'database' => env('DB_DATABASE', 'forge'),
+            'username' => env('DB_USERNAME', 'forge'),
+            'password' => env('DB_PASSWORD', ''),
             'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
             'schema' => 'public',
             'sslmode' => 'prefer',
+        ],
+
+        'sqlsrv' => [
+            'driver' => 'sqlsrv',
+            'host' => env('DB_HOST', 'localhost'),
+            'port' => env('DB_PORT', '1433'),
+            'database' => env('DB_DATABASE', 'forge'),
+            'username' => env('DB_USERNAME', 'forge'),
+            'password' => env('DB_PASSWORD', ''),
+            'charset' => 'utf8',
+            'prefix' => '',
+            'prefix_indexes' => true,
         ],
 
     ],
@@ -91,7 +103,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | Redis is an open source, fast, and advanced key-value store that also
-    | provides a richer set of commands than a typical key-value systems
+    | provides a richer body of commands than a typical key-value system
     | such as APC or Memcached. Laravel makes it easy to dig right in.
     |
     */
@@ -101,16 +113,16 @@ return [
         'client' => 'predis',
 
         'default' => [
-            'host' => parse_url(env('REDIS_URL'), PHP_URL_HOST),
-            'password' => parse_url(env('REDIS_URL'), PHP_URL_PASS),
-            'port' => parse_url(env('REDIS_URL'), PHP_URL_PORT),
+            'host' => env('REDIS_HOST', '127.0.0.1'),
+            'password' => env('REDIS_PASSWORD', null),
+            'port' => env('REDIS_PORT', 6379),
             'database' => env('REDIS_DB', 0),
         ],
 
         'cache' => [
-            'host' => parse_url(env('REDIS_URL'), PHP_URL_HOST),
-            'password' => parse_url(env('REDIS_URL'), PHP_URL_PASS),
-            'port' => parse_url(env('REDIS_URL'), PHP_URL_PORT),
+            'host' => env('REDIS_HOST', '127.0.0.1'),
+            'password' => env('REDIS_PASSWORD', null),
+            'port' => env('REDIS_PORT', 6379),
             'database' => env('REDIS_CACHE_DB', 1),
         ],
 
