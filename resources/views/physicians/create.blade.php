@@ -10,7 +10,7 @@
         
         <div class="login-form">
                   
-        <h1 class="title2 grey-back">Add Patient</h1>
+        <h1 class="title2 grey-back">Add Doctor</h1>
         
         <div class="grey-back buffer text-center">
 
