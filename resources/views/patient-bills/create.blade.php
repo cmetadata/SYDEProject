@@ -23,26 +23,29 @@
                 <label for="organizationName">Patient Name:</label>
                 <input type="text" class="form-control" id="organizationName" name="organizationName" required>
             </div>
+            <hr/>
 
             <div class="form-group">
 
 
                 <div class="checkbox">
                     <table width="100%">
+                        <tr><td></td></tr>
                         <tr>
-                            <td width="20%"><label><input type="checkbox" value="">Semiprivate Room</label></td>
-                            <td width="20%"><label><input type="checkbox" value="">Private Room</label></td>
-                            <td width="60%"><label><input type="checkbox" value="">Television</label></td>
-                        </tr>
+                            <td width="30%"><label><input type="checkbox" value="">Semiprivate Room</label></td>
+                            <td width="30%"><label><input type="checkbox" value="">Private Room</label></td>
+                            <td width="30%"><label><input type="checkbox" value="">Television</label></td>
+                        </tr><tr><td><br/></td></tr>
                         <tr>
-                            <td width="20%"><label><input type="checkbox" value="">Laboratory</label></td>
-                            <td width="80%"><label><input type="checkbox" value="">Glucose</label></td>
-                        </tr>
+                            <td width="30%"><label><input type="checkbox" value="">Laboratory</label></td>
+                            <td width="30%"><label><input type="checkbox" value="">Glucose</label></td>
+                        </tr><tr><td><br/></td></tr>
                         <tr>
-                            <td width="20%"><label><input type="checkbox" value="">Radiology</label></td>
-                            <td width="80%"><label><input type="checkbox" value="">Chest X-Ray</label></td>
-                        </tr>
+                            <td width="30%"><label><input type="checkbox" value="">Radiology</label></td>
+                            <td width="30%"><label><input type="checkbox" value="">Chest X-Ray</label></td>
+                        </tr><tr></tr>
                     </table>
+
                 </div>             
 
             </div>             
