@@ -57,14 +57,25 @@
             </div>            
 
 
-             <div class="form-group">
+             <div class="form-group text-center">
                 <label for="organizationName">City:</label>
-                <input type="text" class="form-control" id="organizationName" name="organizationName" required>
+                <select class="form-control text-center">
+                    <label for="organizationName">City:</label>
+                    <option value="one">Ajax</option>
+                    <option value="two">Toronto</option>
+                    <option value="three">Saskatoon</option>
+                    <option value="four">Quebec City</option>
+                    <option value="five">Sydney</option>
+                </select>
             </div>            
                        
-            <div class="form-group">
+            <div class="form-group text-center">
                 <label for="organizationName">Sex:</label>
-                <input type="text" class="form-control" id="organizationName" name="organizationName" required>
+                <select class="form-control text-center">
+                    <label for="organizationName">Sex:</label>
+                    <option value="one">Male</option>
+                    <option value="two">Female</option>
+                </select>
             </div>            
 
 
@@ -79,9 +90,13 @@
             </div>            
 
 
-            <div class="form-group">
+            <div class="form-group text-center">
                 <label for="organizationName">Financial Status:</label>
-                <input type="text" class="form-control" id="organizationName" name="organizationName" required>
+                <select class="form-control text-center">
+                    <label for="organizationName">Financial Status:</label>
+                    <option value="one">ESI</option>
+                    <option value="two">ESO</option>
+                </select>
             </div>            
 
 
