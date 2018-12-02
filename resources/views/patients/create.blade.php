@@ -12,7 +12,7 @@
 
         <h1 class="title2 grey-back">Rooms</h1>
         
-        <div class="grey-back buffer">
+        <div class="grey-back buffer text-center">
 
             <div class="form-group">
                 <label for="organizationName">Patient Number:</label>

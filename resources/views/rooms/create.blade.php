@@ -19,10 +19,14 @@
                 <input type="text" class="form-control" id="organizationName" name="organizationName" required>
             </div>
 
-            <div class="form-group">
+            <div class="form-group text-center">
                 <label for="organizationName">Room Type:</label>
-                <input type="text" class="form-control" id="organizationName" name="organizationName" required>
-            </div>
+                <select class="form-control text-center">
+                    <label for="organizationName">Room Type:</label>
+                    <option value="one">Private</option>
+                    <option value="two">Semi-Private</option>
+                </select>
+            </div>            
 
             <button type="submit" class="btn btn-default">Submit</button>
 
