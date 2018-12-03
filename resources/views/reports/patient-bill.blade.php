@@ -3,25 +3,25 @@
 @section ('content')
 
 <!--PUT STUFF HERE-->
-<table>
+<table width="100%">
 	<tr>
-		<td width="100%" align="center">
+		<td align="center">
 			<h1 class="title">Dale Robertson</h1>
 		</td>
 	</tr>
 	<tr>
-		<td width="100%" align="center">
+		<td align="center">
 			<h3 class="title2">Licensed Psychologist</h3>
 		</td>
 	</tr>
 </table>
 
-<table>
+<table width="100%">
 	<tr>
-		<td width="100%" align="center">56 So. Meadow Road	(518) 746-4242</td>
+		<td align="center">56 So. Meadow Road	(518) 746-4242</td>
     </tr>
 	<tr>
-		<td width="100%" align="center">Columbus, OH 02340	DR@email.net</td>
+		<td align="center">Columbus, OH 02340	DR@email.net</td>
     </tr>
 </table>
 
