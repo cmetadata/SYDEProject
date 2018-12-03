@@ -14,7 +14,9 @@
 			<h3 class="title2">Licensed Psychologist</h3>
 		</td>
 	</tr>
+</table>
 
+<table>
 	<tr>
 		<td width="100%" align="center">56 So. Meadow Road	(518) 746-4242</td>
     </tr>
@@ -72,9 +74,7 @@
 		<td width="5%"><b>Balance Due</b></td>
 	</tr>
 
-	<hr/>
-
-	<tr><td></td></tr>
+	<tr><td><hr/></td></tr>
 
 	<tr>
 		<td width="4%">11/11/18</td>
