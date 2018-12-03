@@ -57,23 +57,21 @@
 <table>
 
 	<tr>
-	<b>
-		<td width="4%">Date</td>
-		<td width="5%">Service</td>
-		<td width="5%">Hours/Units</td>
-		<td width="5%">Rate</td>
-		<td width="5%">Charge</td>
-		<td width="5%">Patient Payment</td>
-		<td width="4%">Date</td>
-		<td width="7%">Insurance Payment</td>
-		<td width="7%">Insurnace Adjustment</td>
-		<td width="5%">Date</td>
-		<td width="6%">Other Insur Payment</td>
-		<td width="6%">Other Insur Adjustment</td>
-		<td width="4%">Date</td>
-		<td width="8%">Other Adjustment</td>
-		<td width="5%">Balance Due</td>
-	</b>
+		<td width="4%"><b>Date</b></td>
+		<td width="5%"><b>Service</b></td>
+		<td width="5%"><b>Hours/Units</b></td>
+		<td width="5%"><b>Rate</b></td>
+		<td width="5%"><b>Charge</b></td>
+		<td width="5%"><b>Patient Payment</b></td>
+		<td width="4%"><b>Date</b></td>
+		<td width="7%"><b>Insurance Payment</b></td>
+		<td width="7%"><b>Insurnace Adjustment</b></td>
+		<td width="5%"><b>Date</b></td>
+		<td width="6%"><b>Other Insur Payment</b></td>
+		<td width="6%"><b>Other Insur Adjustment</b></td>
+		<td width="4%"><b>Date</b></td>
+		<td width="7%"><b>Other Adjustment</b></td>
+		<td width="5%"><b>Balance Due</b></td>
 	</tr>
 
 	<hr/>
@@ -92,7 +90,7 @@
 		<td width="6%">$0.00</td>
 		<td width="6%">$0.00</td>
 		<td width="4%">1/1/11</td>
-		<td width="8%">$0.00</td>
+		<td width="7%">$0.00</td>
 		<td width="5%">$0.00</td>
 	</tr>
 </table>
