@@ -15,12 +15,12 @@
 		</td>
 	</tr>
 
-	<tr>
-		<td width="30%" align="left">56 So. Meadow Road</td>
-    	<td width="30%" align="left">(518) 746-4242</td></tr>
-	<tr>
-		<td width="30%" align="left">Columbus, OH 02340</td>
-    	<td width="30%" align="left">DR@email.net</td>
+	<tr width="50%">
+		<td align="center">56 So. Meadow Road</td>
+    	<td align="center">(518) 746-4242</td></tr>
+	<tr width="50%">
+		<td align="center">Columbus, OH 02340</td>
+    	<td align="center">DR@email.net</td>
     </tr>
 </table>
 
@@ -28,7 +28,7 @@
 
 <table>
 	<tr>
-		<td width="60%" align="right">
+		<td width="80%" align="right">
 			<title3>For Professional Services To:</title3>
 		</td>
 	</tr>
@@ -39,8 +39,14 @@
 <table>
 	<tr>
 		<td width="70%" align="right">Isabelle R Goodman</td>
+	</tr>
+	<tr>
 		<td width="70%" align="left">Kenny Goodman</td>
+	</tr>
+	<tr>
 		<td width="70%" align="left">8 Village Landing</td>
+	</tr>
+	<tr>
 		<td width="70%" align="left">Columbus, OH 02046</td>
 	</tr>
 </table>
@@ -49,10 +55,10 @@
 
 <table>
 	<tr>
-		<td width="5%">Date</td>
+		<td width="3%">Date</td>
 		<td width="5%">Service</td>
 		<td width="10%">Hours/Units</td>
-		<td width="5%">Rate</td>
+		<td width="3%">Rate</td>
 		<td width="5%">Charge</td>
 		<td width="10%">Patient Payment</td>
 		<td width="5%">Date</td>
@@ -61,10 +67,12 @@
 		<td width="5%">Date</td>
 		<td width="10%">Other Insur Payment</td>
 		<td width="10%">Other Insur Adjustment</td>
-		<td width="5%">Date</td>
+		<td width="3%">Date</td>
 		<td width="5%">Other Adjustment</td>
 		<td width="5%">Balance Due</td>
 	</tr>
 </table>
+
+<hr/>
 
 @endsection
