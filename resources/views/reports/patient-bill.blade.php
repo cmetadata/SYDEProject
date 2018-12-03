@@ -15,11 +15,11 @@
 		</td>
 	</tr>
 
-	<tr width="50%">
+	<tr>
 		<td width="50%" align="center">56 So. Meadow Road</td>
     	<td width="50%" align="left">(518) 746-4242</td>
     </tr>
-	<tr width="50%">
+	<tr>
 		<td width="50%" align="center">Columbus, OH 02340</td>
     	<td width="50%" align="left">DR@email.net</td>
     </tr>
@@ -58,19 +58,36 @@
 	<tr>
 		<td width="4%">Date</td>
 		<td width="5%">Service</td>
-		<td width="7%">Hours/Units</td>
+		<td width="5%">Hours/Units</td>
 		<td width="3%">Rate</td>
 		<td width="5%">Charge</td>
-		<td width="8%">Patient Payment</td>
-		<td width="5%">Date</td>
+		<td width="7%">Patient Payment</td>
+		<td width="4%">Date</td>
 		<td width="7%">Insurance Payment</td>
 		<td width="7%">Insurnace Adjustment</td>
 		<td width="5%">Date</td>
-		<td width="7%">Other Insur Payment</td>
-		<td width="7%">Other Insur Adjustment</td>
+		<td width="6%">Other Insur Payment</td>
+		<td width="6%">Other Insur Adjustment</td>
 		<td width="4%">Date</td>
 		<td width="8%">Other Adjustment</td>
 		<td width="5%">Balance Due</td>
+	</tr>
+	<tr>
+		<td width="4%">11/11/18</td>
+		<td width="5%">Therapy</td>
+		<td width="5%">1</td>
+		<td width="3%">$150.00</td>
+		<td width="5%">$150.00</td>
+		<td width="7%">$20.00</td>
+		<td width="4%">11/29/18</td>
+		<td width="7%">$87.63</td>
+		<td width="7%">$17.37</td>
+		<td width="5%">1/2/12</td>
+		<td width="6%">$0.00</td>
+		<td width="6%">$0.00</td>
+		<td width="4%">1/1/11</td>
+		<td width="8%">$0.00</td>
+		<td width="5%">$0.00</td>
 	</tr>
 </table>
 
