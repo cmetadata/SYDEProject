@@ -140,3 +140,7 @@ a.footerlink:hover, a.footerlink:active {
     width: auto;
     box-shadow: none;
   }
+
+.checkbox {
+    text-align: left;
+}
