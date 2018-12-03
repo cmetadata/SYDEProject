@@ -19,6 +19,10 @@ Route::get('/help', function () {
 	return view('help');
 });
 
+Route::get('/reports/patient-bill', function () {
+	return view('reports.patient-bill');
+});
+
 //PATIENTS
 Route::get('/patients/create', 'PatientController@create');
 Route::get('/patients/show', 'PatientController@show');
