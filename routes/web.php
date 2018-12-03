@@ -19,6 +19,11 @@ Route::get('/help', function () {
 	return view('help');
 });
 
+Route::get('/login', function () {
+	return view('login');
+});
+
+
 Route::get('/reports/patient-bill', function () {
 	return view('reports.patient-bill');
 });
