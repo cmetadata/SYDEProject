@@ -55,13 +55,15 @@
 <hr/>
 
 <table>
+
 	<tr>
+	<b>
 		<td width="4%">Date</td>
 		<td width="5%">Service</td>
 		<td width="5%">Hours/Units</td>
-		<td width="3%">Rate</td>
+		<td width="5%">Rate</td>
 		<td width="5%">Charge</td>
-		<td width="7%">Patient Payment</td>
+		<td width="5%">Patient Payment</td>
 		<td width="4%">Date</td>
 		<td width="7%">Insurance Payment</td>
 		<td width="7%">Insurnace Adjustment</td>
@@ -71,14 +73,18 @@
 		<td width="4%">Date</td>
 		<td width="8%">Other Adjustment</td>
 		<td width="5%">Balance Due</td>
+	</b>
 	</tr>
+
+	<hr/>
+
 	<tr>
 		<td width="4%">11/11/18</td>
 		<td width="5%">Therapy</td>
-		<td width="5%">1</td>
-		<td width="3%">$150.00</td>
+		<td width="5%" align="center">1</td>
 		<td width="5%">$150.00</td>
-		<td width="7%">$20.00</td>
+		<td width="5%">$150.00</td>
+		<td width="5%">$20.00</td>
 		<td width="4%">11/29/18</td>
 		<td width="7%">$87.63</td>
 		<td width="7%">$17.37</td>
@@ -90,7 +96,5 @@
 		<td width="5%">$0.00</td>
 	</tr>
 </table>
-
-<hr/>
 
 @endsection
