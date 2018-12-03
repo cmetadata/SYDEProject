@@ -65,6 +65,15 @@ html {
     margin-top: 0px;
  }
 
+ .title3 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Helvetica", times, sans-serif;
+    font-style: italic;
+    color: darkblue;
+    margin-top: 0px;
+ }
+
  .left {
     float: left;
  }
