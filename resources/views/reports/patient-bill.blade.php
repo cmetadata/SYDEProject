@@ -6,7 +6,7 @@
 <table width="100%">
 	<tr>
 		<td align="center">
-			<h1 class="title">Dale Robertson</h1>
+			<h1 class="title"><b>Dale Robertson</b></h1>
 		</td>
 	</tr>
 	<tr>
@@ -21,7 +21,7 @@
 		<td align="center">56 So. Meadow Road  |  (518) 746-4242</td>
     </tr>
 	<tr>
-		<td align="center">Columbus, OH 02340  |  DR@email.net</td>
+		<td align="center">Columbus, OH 02340 |  DR@email.net</td>
     </tr>
 </table>
 
