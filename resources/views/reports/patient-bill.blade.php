@@ -18,10 +18,10 @@
 
 <table width="100%">
 	<tr>
-		<td align="center">56 So. Meadow Road	(518) 746-4242</td>
+		<td align="center">56 So. Meadow Road  |  (518) 746-4242</td>
     </tr>
 	<tr>
-		<td align="center">Columbus, OH 02340	DR@email.net</td>
+		<td align="center">Columbus, OH 02340  |  DR@email.net</td>
     </tr>
 </table>
 
@@ -74,7 +74,7 @@
 		<td width="5%"><b>Balance Due</b></td>
 	</tr>
 
-	<tr><td><hr/></td></tr>
+	<tr><td colspan="15"><hr/></td></tr>
 
 	<tr>
 		<td width="4%">11/11/18</td>
