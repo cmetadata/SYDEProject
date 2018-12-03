@@ -17,11 +17,11 @@
 
 	<tr width="50%">
 		<td width="50%" align="center">56 So. Meadow Road</td>
-    	<td width="50%" align="center">(518) 746-4242</td>
+    	<td width="50%" align="left">(518) 746-4242</td>
     </tr>
 	<tr width="50%">
 		<td width="50%" align="center">Columbus, OH 02340</td>
-    	<td width="50%" align="center">DR@email.net</td>
+    	<td width="50%" align="left">DR@email.net</td>
     </tr>
 </table>
 
@@ -61,13 +61,13 @@
 		<td width="7%">Hours/Units</td>
 		<td width="3%">Rate</td>
 		<td width="5%">Charge</td>
-		<td width="10%">Patient Payment</td>
+		<td width="8%">Patient Payment</td>
 		<td width="5%">Date</td>
-		<td width="8%">Insurance Payment</td>
-		<td width="8%">Insurnace Adjustment</td>
+		<td width="7%">Insurance Payment</td>
+		<td width="7%">Insurnace Adjustment</td>
 		<td width="5%">Date</td>
-		<td width="8%">Other Insur Payment</td>
-		<td width="8%">Other Insur Adjustment</td>
+		<td width="7%">Other Insur Payment</td>
+		<td width="7%">Other Insur Adjustment</td>
 		<td width="4%">Date</td>
 		<td width="8%">Other Adjustment</td>
 		<td width="5%">Balance Due</td>
