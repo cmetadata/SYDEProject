@@ -48,6 +48,7 @@ Route::get('/items', 'ItemController@index');
 Route::get('/items/edit', 'ItemController@edit');
 
 //COST CENTRES
+Route::get('/cost-centres/create', 'CostCentreController@create');
 Route::get('/cost-centres/show', 'CostCentreController@show');
 Route::get('/cost-centres', 'CostCentreController@index');
 Route::get('/cost-centres/edit', 'CostCentreController@edit');
@@ -59,6 +60,7 @@ Route::get('/patient-bills', 'PatientBillController@index');
 Route::get('/patient-bills/edit', 'PatientBillController@edit');
 
 //TRANSACTIONS
+Route::get('/transactions/create', 'TransactionController@create');
 Route::get('/transactions/show', 'TransactionController@show');
 Route::get('/transactions', 'TransactionController@index');
 Route::get('/transactions/edit', 'TransactionController@edit');

@@ -5,7 +5,7 @@
 	<div>
 	    <div class='btn-toolbar pull-right'>
 	        <div class='btn-group'>
-	            <a class="btn btn-default new-button grey-back" href="/players/create">New Transaction</a>
+	            <a class="btn btn-default new-button grey-back" href="/transactions/create">New Transaction</a>
 	        </div>
 	    </div>
 	    <h1 class="content-header grey-back">Transactions</h1>
