@@ -57,7 +57,7 @@
 		<td width="10%"><b>Item-Code</b></td>
 		<td width="10%"><b>Description</b></td>
 		<td width="10%"><b>Charge</b></td>
-		<td width="10%"><b>Balance Due</b></td>
+		<td width="10%" align="center"><b>Balance Due</b></td>
 		
 	</tr>
 
