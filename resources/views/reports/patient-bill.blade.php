@@ -3,7 +3,6 @@
 @section ('content')
 
 <!--PUT STUFF HERE-->
-<<<<<<< HEAD
 <table><tr>
 <td width="100%" align="center">
 <h1 class="title">Frank MacDonald</h1>
@@ -17,28 +16,6 @@
     <td width="50%" align="center">(289) 346-9931</td></tr>
 <tr><td width="30%" align="center">Columbus, OH 52040</td>
     <td width="50%" align="center">Dfrank@hotmail.com</td></tr>
-=======
-<table width="100%">
-	<tr>
-		<td align="center">
-			<h1 class="title"><b>Dale Robertson</b></h1>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<h3 class="title2">Licensed Psychologist</h3>
-		</td>
-	</tr>
-</table>
-
-<table width="100%">
-	<tr>
-		<td align="center">56 So. Meadow Road  |  (518) 746-4242</td>
-    </tr>
-	<tr>
-		<td align="center">Columbus, OH 02340 |  DR@email.net</td>
-    </tr>
->>>>>>> 2321bcd519f84995c7d6cd3de6310dffdd3849b1
 </table>
 
 <br>
