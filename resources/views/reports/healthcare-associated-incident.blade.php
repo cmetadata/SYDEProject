@@ -1,13 +1,12 @@
 @extends ('layout.header')
 
 @section ('content')
-
 <!--PUT STUFF HERE-->
 	<table>
 
 		<tr>
 			<td width="100%" align="center">
-				<h1 class="title">Patient Bill Report</h1>
+				<h1 class="title">Health Care Associated Incident</h1>
 			</td>
 		</tr>
 

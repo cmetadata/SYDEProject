@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ URL::asset('css/custom.css') }}">
+  <link rel="stylesheet" href="{{ secure_asset('css/custom.css') }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
@@ -44,20 +44,19 @@
       <li><a href="/cost-centres">Cost Centres</a></li>
       <li><a href="/patient-bills">Patient Bills</a></li>
       <li><a href="/transactions">Transactions</a></li>
-      <li><a href="/reports">Reports</a></li>
-
-
-      <!--<li class="nav-item dropdown">
+      <li class="nav-item dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-          Admin Utilities
+          Reports
           <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="/persons">See Full Directory</a></li>
-          <li><a class="dropdown-item" href="/injuries/create">New Injury</a></li>
-          <li><a class="dropdown-item" href="/scholarships/create">New Scholarship</a></li>
-          <li><a class="dropdown-item" href="/incidents/create">New Incident</a></li>
+          <li><a class="dropdown-item" href="/reports/patient-bill">Patient Bill</a></li>
+          <li><a class="dropdown-item" href="/reports/revenue-analysis">Revenue Analysis</a></li>
+          <li><a class="dropdown-item" href="/reports/room-utilization">Room Utilization</a></li>
+          <li><a class="dropdown-item" href="/reports/daily-revenue">Daily Revenue</a></li>
+          <li><a class="dropdown-item" href="/reports/healthcare-associated-incidents">Healthcare Associated Incident</a></li>
+          <li><a class="dropdown-item" href="/reports/mortality-rates">Mortality Rates</a></li>
         </ul>
-      </li>-->      
+      </li>    
     </ul>
   </div>
         

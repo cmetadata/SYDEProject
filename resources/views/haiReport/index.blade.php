@@ -2,12 +2,21 @@
 
 @section ('content')
 
+	<div>
+	    <div class='btn-toolbar pull-right'>
+	        <div class='btn-group'>
+	            <a class="btn btn-default new-button grey-back" href="/cost-centres/create">New HAI report</a>
+	        </div>
+	    </div>
+	    <h1 class="content-header grey-back">HAI Reports</h1>
+	</div>
+
 <!--PUT STUFF HERE-->
 	<table>
 
 		<tr>
 			<td width="100%" align="center">
-				<h1 class="title">Patient Bill Report</h1>
+				<h1 class="title">Health Care Associated Incident</h1>
 			</td>
 		</tr>
 
