@@ -27,6 +27,7 @@
       <li><a href="/cost-centres">Cost Centres</a></li>
       <li><a href="/patient-bills">Patient Bills</a></li>
       <li><a href="/transactions">Transactions</a></li>
+      <li><a href="/reports">Reports</a></li>
 
 
       <!--<li class="nav-item dropdown">
