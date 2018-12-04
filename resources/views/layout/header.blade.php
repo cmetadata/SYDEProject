@@ -44,20 +44,19 @@
       <li><a href="/cost-centres">Cost Centres</a></li>
       <li><a href="/patient-bills">Patient Bills</a></li>
       <li><a href="/transactions">Transactions</a></li>
-      <li><a href="/reports">Reports</a></li>
-
-
-      <!--<li class="nav-item dropdown">
+      <li class="nav-item dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-          Admin Utilities
+          Reports
           <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="/persons">See Full Directory</a></li>
-          <li><a class="dropdown-item" href="/injuries/create">New Injury</a></li>
-          <li><a class="dropdown-item" href="/scholarships/create">New Scholarship</a></li>
-          <li><a class="dropdown-item" href="/incidents/create">New Incident</a></li>
+          <li><a class="dropdown-item" href="/">Patient Bill</a></li>
+          <li><a class="dropdown-item" href="/">Revenue Analysis</a></li>
+          <li><a class="dropdown-item" href="/">Room Utilization</a></li>
+          <li><a class="dropdown-item" href="/">Daily Revenue</a></li>
+          <li><a class="dropdown-item" href="/">Healthcare Associated Incident</a></li>
+          <li><a class="dropdown-item" href="/">Mortality Rates</a></li>
         </ul>
-      </li>-->      
+      </li>    
     </ul>
   </div>
         
