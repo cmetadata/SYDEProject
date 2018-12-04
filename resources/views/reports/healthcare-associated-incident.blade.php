@@ -16,7 +16,7 @@
 	    </tr>
 		<tr width="50%">
 			<td width="50%" align="center">MEXICO</td>
-	    	<td width="50%" align="left">HOO HOO BITCH</td>
+	    	<td width="50%" align="left">The Need for speed</td>
 	    </tr>
 	</table>
 
