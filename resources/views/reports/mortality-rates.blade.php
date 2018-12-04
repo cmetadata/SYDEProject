@@ -13,6 +13,7 @@
 		<td width="15%" align="left">First Name</td>
 		<td width="15%" align="left">Last Name</td>
 		<td width="15%" align="left">Age</td>	
+		<td width="15%" align="left">Gender</td>
 		<td width="30%" align="left">Cause Of Death</td>
 	</tr> 
 
