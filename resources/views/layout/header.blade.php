@@ -8,6 +8,23 @@
   <link rel="stylesheet" href="{{ URL::asset('css/custom.css') }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <script type="text/javascript">
+         <!--
+            function getConfirmation(){
+               var retVal = confirm("Are you sure you want to delete this?");
+               if( retVal == true ){
+                  document.write ("User wants to delete!");
+                  return true;
+               }
+               else{
+                  document.write ("User does not want to delete!");
+                  return false;
+               }
+            }
+         //-->
+      </script>
+
 </head>
 <body>
 
