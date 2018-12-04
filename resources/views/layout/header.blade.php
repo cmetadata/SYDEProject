@@ -49,7 +49,7 @@
           Reports
           <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="/reports/patient-bill">Patient Bill</a></li>
+          <li><a class="dropdown-item" href="/reports">Patient Bill</a></li>
           <li><a class="dropdown-item" href="/reports/revenue-analysis">Revenue Analysis</a></li>
           <li><a class="dropdown-item" href="/reports/room-utilization">Room Utilization</a></li>
           <li><a class="dropdown-item" href="/reports/daily-revenue">Daily Revenue</a></li>
