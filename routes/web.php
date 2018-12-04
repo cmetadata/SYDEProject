@@ -23,7 +23,6 @@ Route::get('/login', function () {
 	return view('login');
 });
 
-
 Route::get('/reports/patient-bill', function () {
 	return view('patient-bill');
 });
@@ -36,6 +35,9 @@ Route::get('/reports/hai', function () {
 Route::get('/reports/mortality', function () {
 	return view('mortality-report');
 });
+
+//REPORTS
+Route::get('/reports', 'ReportsController@index');
 
 //PATIENTS
 Route::get('/patients/create', 'PatientController@create');
