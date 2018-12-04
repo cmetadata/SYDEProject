@@ -23,6 +23,9 @@ Route::get('/login', function () {
 	return view('login');
 });
 
+Route::get('/reports', function() {
+	return view('reports');
+});
 
 Route::get('/reports/patient-bill', function () {
 	return view('patient-bill');
