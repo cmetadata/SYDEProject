@@ -23,24 +23,24 @@
 
 <table width="100%">
 	<tr>
-		<td align="right" width="50%"><b>Patient NO: </b></td>
-		<td align="left" width="50%"> 12345</td>
+		<td align="right" width="50%"><b>Patient NO</b></td>
+		<td align="left" width="50%">: 12345</td>
     </tr>
 	<tr>
-		<td align="right" width="50%"><b>Patient Address: </b></td>
-		<td align="left" width="50%"> 300 Oak St. Mounrtain View BC V1V 1V1</td>
+		<td align="right" width="50%"><b>Patient Address</b></td>
+		<td align="left" width="50%">: 300 Oak St. Mountain View BC V1V 1V1</td>
     </tr>
     <tr>
-		<td align="right" width="50%"><b>Date: </b></td>
-		<td align="left" width="50%"> 10/07/2014</td>
+		<td align="right" width="50%"><b>Date</b></td>
+		<td align="left" width="50%">: 10/07/2014</td>
     </tr>
     <tr>
-		<td align="right" width="50%"><b>Date Admitted: </b></td>
-		<td align="left" width="50%"> 10/04/2014</td>
+		<td align="right" width="50%"><b>Date Admitted</b></td>
+		<td align="left" width="50%">: 10/04/2014</td>
     </tr>
     <tr>
-		<td align="right" width="50%"><b>Discharge Date: </b></td>
-		<td align="left" width="50%"> 10/06/2014</td>
+		<td align="right" width="50%"><b>Discharge Date</b></td>
+		<td align="left" width="50%">: 10/06/2014</td>
     </tr>
 </table>
 
@@ -56,8 +56,8 @@
 		<td width="10%"><b>Date Charged</b></td>
 		<td width="10%"><b>Item-Code</b></td>
 		<td width="10%"><b>Description</b></td>
-		<td width="10%"><b>Charge</b></td>
-		<td width="10%" align="center"><b>Balance Due</b></td>
+		<td width="5%"><b>Charge</b></td>
+		<td width="5%" align="left"><b>Balance Due</b></td>
 		
 	</tr>
 
@@ -67,7 +67,7 @@
 		<td width="10%">100</td>
 		<td width="10%">Room & Board</td>
 		<td width="10%">10/04/2014</td>
-		<td width="10%" align="center">2000</td>
+		<td width="10%">2000</td>
 		<td width="10%">Semi-Private Room</td>
 		<td width="10%">200.00</td>
 		<td width="5%"></td>
@@ -76,7 +76,7 @@
 		<td width="10%"></td>
 		<td width="10%"></td>
 		<td width="10%">10/04/2014</td>
-		<td width="10%" align="center">2005</td>
+		<td width="10%">2005</td>
 		<td width="10%">Television</td>
 		<td width="10%">5.00</td>
 		<td width="10%"></td>
@@ -89,7 +89,7 @@
 		<td width="10%">110</td>
 		<td width="10%">Laboratory</td>
 		<td width="10%">10/04/2014</td>
-		<td width="10%" align="center">1580</td>
+		<td width="10%">1580</td>
 		<td width="10%">Glucose</td>
 		<td width="10%">25.00</td>
 		<td width="5%"></td>
@@ -98,7 +98,7 @@
 		<td width="10%"></td>
 		<td width="10%"></td>
 		<td width="10%">10/05/2014</td>
-		<td width="10%" align="center">1585</td>
+		<td width="10%">1585</td>
 		<td width="10%">Culture</td>
 		<td width="10%">20.00</td>
 		<td width="10%"></td>
@@ -111,7 +111,7 @@
 		<td width="10%">125</td>
 		<td width="10%">Radiology</td>
 		<td width="10%">10/05/2014</td>
-		<td width="10%" align="center">3010</td>
+		<td width="10%">3010</td>
 		<td width="10%">Chest X-Ray</td>
 		<td width="10%">30.00</td>
 		<td width="5%"></td>
@@ -120,7 +120,7 @@
 		<td width="10%"></td>
 		<td width="10%"></td>
 		<td width="10%">10/05/2014</td>
-		<td width="10%" align="center">3010</td>
+		<td width="10%">3010</td>
 		<td width="10%">Chest X-Ray</td>
 		<td width="10%">30.00</td>
 		<td width="10%"></td>
@@ -130,8 +130,14 @@
 		<td width="10%" colspan="2" align="center">60.00</td>
 	</tr>
 	<tr>
-		<td width="10%" colspan="5" align="right"><b><hr/>Balance Due</b></td>
-		<td width="10%" colspan="2" align="center"><b>$310.00</b><hr/></td>
+		<td colspan="7"><hr/></td>
+	</tr>
+	<tr>
+		<td width="10%" colspan="5" align="right"><b>Balance Due</b></td>
+		<td width="10%" colspan="2" align="center"><b>$310.00</b></td>
+	</tr>
+	<tr>
+		<td colspan="7"><hr/></td>
 	</tr>
 </table>
 

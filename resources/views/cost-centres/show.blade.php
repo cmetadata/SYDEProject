@@ -7,7 +7,10 @@
 	</div>
 
 
-    <a class="btn btn-default new-button grey-back" onclick="getConfirmation();" >Delete Cost Centre</a>
-    <a class="btn btn-default new-button grey-back" href="/cost-centres/edit">Edit Cost Centre</a>
+    <a class="btn btn-default grey-back" onclick="getConfirmation();" >Delete Cost Centre</a>
+    <a class="btn btn-default grey-back" href="/cost-centres/edit">Edit Cost Centre</a>
+
+    <hr/>
+    <p>Display cost centre information here</p>
 
 @endsection
