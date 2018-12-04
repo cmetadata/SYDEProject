@@ -29,10 +29,10 @@ Route::get('/reports/patient-bill', function () {
 
 
 
-Route::get('/mortalityReports', 'MortalityReport@index');
+//Route::get('/mortalityReports', 'MortalityReport@index');
 
 //A HAI is a health care-associated incident
-Route::get('/haiReports', 'HaieReportsController@index');
+//Route::get('/haiReports', 'HaieReportsController@index');
 
 //REPORTS
 Route::get('/reports', 'ReportsController@index');
