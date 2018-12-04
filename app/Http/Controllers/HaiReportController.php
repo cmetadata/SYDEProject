@@ -2,19 +2,19 @@
 
 namespace App\Http\Controllers;
 
-use App\Report;
+use App\HaiReport;
 use Illuminate\Http\Request;
 
 class ReportController extends Controller
 {
     /**
      * Display a listing of the resource.
-     *
+     * 
      * @return \Illuminate\Http\Response
      */
     public function index()
     {
-        return view('report.index');
+        return view('haiReport.index');
     }
 
     /**
@@ -22,19 +22,9 @@ class ReportController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function createHai()
+    public function create()
     {
-        return view('reportHai.create');
-    }
-
-    /**
-     * Show the form for creating a new mortality report
-     * 
-     * @return \Illuminate\Http\Response
-     */  
-    public function createMortality()
-    {
-        return view('reportMortality.create');
+        return view('haiReport.create');
     }
 
     /**
@@ -56,7 +46,7 @@ class ReportController extends Controller
      */
     public function show()
     {
-        return view('cost-centres.show');
+        return view('haiReport.show');
     }
 
     /**
@@ -67,7 +57,7 @@ class ReportController extends Controller
      */
     public function edit()
     {
-        return view('cost-centres.edit');
+        return view('haiReport.edit');
     }
 
     /**
