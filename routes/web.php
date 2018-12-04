@@ -29,11 +29,11 @@ Route::get('/reports/patient-bill', function () {
 
 //A HAI is a health care-associated incident
 Route::get('/reports/hai', function () {
-	return view('hai-report');
+	return view('haiReport');
 });
 
 Route::get('/reports/mortality', function () {
-	return view('mortality-report');
+	return view('mortalityReport');
 });
 
 //REPORTS

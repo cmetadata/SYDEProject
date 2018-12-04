@@ -7,5 +7,6 @@
 	<li><a href="/haiReports">HAI Report</a></li>
 	<li><a href="/mortalityReports">Mortality Report</a></li>
 	<li><a href="/patient-bills">Patient Bill</a></li>
+	<br>
 	
 @endsection
