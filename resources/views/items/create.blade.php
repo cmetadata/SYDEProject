@@ -10,7 +10,7 @@
         
         <div class="login-form">
 
-        <h1 class="title2 grey-back">Items</h1>
+        <h1 class="title2 grey-back">Create Item</h1>
         
         <div class="grey-back buffer">
 

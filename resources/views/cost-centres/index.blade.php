@@ -25,8 +25,8 @@
 	<div class="object-div grey-back">
 	    <table width="100%">
 	    	<tr>
-				<td width="25%">Cost Centre ID: 125</td>
-				<td width="75%">Radiology</td>
+				<td width="33%">Cost Centre ID: 125</td>
+				<td width="33%">Radiology</td>
 	    	</tr>
 	    </table>
 	</div>
