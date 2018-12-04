@@ -28,6 +28,14 @@
 		<td width="15%" align="left">James</td>
 		<td width="15%" align="left">Thompson</td>
 		<td width="15%" align="left">52</td>	
-		<td width="30%" align="left">Complications from surgery</td>
+		<td width="30%" align="left">Flu</td>
+	</tr>
+
+	<tr>
+		<td width="15%" align="left">Alex</td>
+		<td width="15%" align="left">Mooney</td>
+		<td width="15%" align="left">20</td>	
+		<td width="30%" align="left"></td>
+	</tr>
 
 @endsection
