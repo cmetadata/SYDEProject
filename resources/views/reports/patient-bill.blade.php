@@ -23,19 +23,24 @@
 
 <table width="100%">
 	<tr>
-		<td align="center"><b>Patient NO:</b> 12345</td>
+		<td align="right" width="50%"><b>Patient NO:</b></td>
+		<td align="center" width="50%">12345</td>
     </tr>
 	<tr>
-		<td align="center"><b>Patient Address:</b> 300 Oak St. Mounrtain View BC V1V 1V1</td>
+		<td align="right" width="50%"><b>Patient Address:</b></td>
+		<td align="center" width="50%">300 Oak St. Mounrtain View BC V1V 1V1</td>
     </tr>
     <tr>
-		<td align="center"><b>Date:</b>10/07/2014</td>
+		<td align="right" width="50%"><b>Date:</b></td>
+		<td align="center" width="50%">10/07/2014</td>
     </tr>
     <tr>
-		<td align="center"><b>Date Admitted:</b>10/04/2014</td>
+		<td align="right" width="50%"><b>Date Admitted:</b></td>
+		<td align="center" width="50%">10/04/2014</td>
     </tr>
     <tr>
-		<td align="center"><b>Discharge Date:</b>10/06/2014</td>
+		<td align="right" width="50%"><b>Discharge Date:</b></td>
+		<td align="center" width="50%">10/06/2014</td>
     </tr>
 </table>
 
@@ -78,7 +83,7 @@
 	</tr>
 	<tr>
 		<td width="10%" colspan="5" align="right"><b>Subtotal</b></td>
-		<td width="10%" colspan="2" align="right">205.00</td>
+		<td width="10%" colspan="2" align="center">205.00</td>
 	</tr>
 	<tr>
 		<td width="10%">110</td>
@@ -100,7 +105,7 @@
 	</tr>
 	<tr>
 		<td width="10%" colspan="5" align="right"><b>Subtotal</b></td>
-		<td width="10%" colspan="2" align="right">45.00</td>
+		<td width="10%" colspan="2" align="center">45.00</td>
 	</tr>
 </table>
 
