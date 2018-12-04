@@ -27,6 +27,10 @@ Route::get('/reports/patient-bill', function () {
 	return view('patient-bill');
 });
 
+Route::get('/reports/room-utilization', function () {
+	return view('reports.room-utilization');
+});
+
 
 
 Route::get('/mortalityReports', 'MortalityReport@index');
