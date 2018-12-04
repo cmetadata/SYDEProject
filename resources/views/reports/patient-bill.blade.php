@@ -28,7 +28,7 @@
     </tr>
 	<tr>
 		<td align="right" width="50%"><b>Patient Address</b></td>
-		<td align="left" width="50%">: 300 Oak St. Mounrtain View BC V1V 1V1</td>
+		<td align="left" width="50%">: 300 Oak St. Mountain View BC V1V 1V1</td>
     </tr>
     <tr>
 		<td align="right" width="50%"><b>Date</b></td>
@@ -56,8 +56,8 @@
 		<td width="10%"><b>Date Charged</b></td>
 		<td width="10%"><b>Item-Code</b></td>
 		<td width="10%"><b>Description</b></td>
-		<td width="10%"><b>Charge</b></td>
-		<td width="10%" align="center"><b>Balance Due</b></td>
+		<td width="5%"><b>Charge</b></td>
+		<td width="5%" align="left"><b>Balance Due</b></td>
 		
 	</tr>
 
@@ -129,12 +129,16 @@
 		<td width="10%" colspan="5" align="right"><b>Subtotal</b></td>
 		<td width="10%" colspan="2" align="center">60.00</td>
 	</tr>
-	<tr><hr/></tr>
+	<tr>
+		<td colspan="7"><hr/></td>
+	</tr>
 	<tr>
 		<td width="10%" colspan="5" align="right"><b>Balance Due</b></td>
 		<td width="10%" colspan="2" align="center"><b>$310.00</b></td>
 	</tr>
-	<tr><hr/></tr>
+	<tr>
+		<td colspan="7"><hr/></td>
+	</tr>
 </table>
 
 @endsection
