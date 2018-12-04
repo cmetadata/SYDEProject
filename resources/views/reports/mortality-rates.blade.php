@@ -24,4 +24,10 @@
 		<td width="30%" align="left">Complications from surgery</td>
 	</tr>
 
+	<tr>
+		<td width="15%" align="left">James</td>
+		<td width="15%" align="left">Thompson</td>
+		<td width="15%" align="left">52</td>	
+		<td width="30%" align="left">Complications from surgery</td>
+
 @endsection
