@@ -11,45 +11,58 @@
 	</tr>
 </table>
 
-<table>
+
+<table width="100%" class="grey-back">
 	<br>
 
 	<tr>
-		<td width="5%" align="left">First Name</td>
-		<td width="15%" align="left">Last Name</td>
-		<td width="15%" align="left">Age</td>	
-		<td width="15%" align="left">Gender</td>
-		<td width="30%" align="left">Cause Of Death</td>
+		<td width="15%" align="Left"><b>First Name</b></td>
+		<td width="15%" align="Left"><b>Last Name</b></td>
+		<td width="15%" align="Left"><b>Age</b></td>	
+		<td width="15%" align="Left"><b>Gender</b></td>
+		<td width="40%" align="Left"><b>Cause Of Death</b></td>
 	</tr> 
+</table>
 
+<table width="100%">
 	<br>
 	<hr>
 
 	<tr>
 		<td width="15%" align="left">Rose</td>
 		<td width="15%" align="left">Melange</td>
-		<td width="15%" align="left">34</td>	
-		<td width="30%" align="left">Complications from surgery</td>
+		<td width="15%" align="left">34</td>
+		<td width="15%" align="left">Female</td>	
+		<td width="40%" align="left">Complications from surgery</td>
 	</tr>
+</table>
 
+<table width="100%">
 	<br>
 
 	<tr>
 		<td width="15%" align="left">James</td>
 		<td width="15%" align="left">Thompson</td>
 		<td width="15%" align="left">52</td>	
-		<td width="30%" align="left">Flu</td>
+		<td width="15%" align="left">Male</td>
+		<td width="40%" align="left">Flu</td>
 	</tr>
 
+</table>
+
+<table width="100%">
 	<br>
 
 	<tr>
 		<td width="15%" align="left">Alex</td>
 		<td width="15%" align="left">Mooney</td>
 		<td width="15%" align="left">20</td>	
-		<td width="30%" align="left">Infection</td>
+		<td width="15%" align="left">Male</td>
+		<td width="40%" align="left">Infection</td>
 	</tr>
+</table>
 
+<table width="100%">
 	<br>
 
 	<tr>
@@ -57,5 +70,6 @@
 		<td width="30%" align="right">3</td>
 	</tr>
 
-</table>
+</table> 
+<br>
 @endsection
