@@ -6,7 +6,7 @@
 <table width="100%">
 	<tr>
 		<td align="center">
-			<h1 class="title"><b>Patient Bill</b></h1>
+			<h1 class="title"><b>Patient Bill Report</b></h1>
 		</td>
 	</tr>
 	<tr>
@@ -18,22 +18,14 @@
 
 <table width="100%">
 	<tr>
-		<td align="center">Patient NO: 12345</td>
+		<td align="center"><b>Patient NO:</b> 12345</td>
     </tr>
 	<tr>
-		<td align="center">Patient Address: 300 Oak St. Mounrtain View BC V1V 1V1</td>
+		<td align="center"><b>Patient Address:</b> 300 Oak St. Mounrtain View BC V1V 1V1</td>
     </tr>
 </table>
 
 <br>
-
-<table>
-	<tr>
-		<td width="100%" align="right">
-			<h4 class="title3">For Professional Services To:</h4>
-		</td>
-	</tr>
-</table>
 
 <hr/>
 
@@ -71,8 +63,8 @@
 		<td width="10%"></td>
 	</tr>
 	<tr>
-		<td width="10%" colspan="5">Subtotal</td>
-		<td width="10%" colspan="2">$205.00</td>
+		<td width="10%" colspan="5" align="right"><b>Subtotal</b></td>
+		<td width="10%" colspan="2" align="right">205.00</td>
 	</tr>
 </table>
 
