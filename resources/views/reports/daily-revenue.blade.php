@@ -17,7 +17,7 @@
 			</tr><tr>
 				<td>Room 101A</td>
 	    	</tr>
-	    </table>
+	    </table><hr/>
 
 	    <table width="100%">
 	    	<tr>
@@ -48,7 +48,7 @@
 				<td width="35%">Glucose</td>
 				<td width="20%">$25.00</td>
 	    	</tr>
-	    </table>
+	    </table><hr/>
 
 	    <table width="100%">
 	    	<tr>
