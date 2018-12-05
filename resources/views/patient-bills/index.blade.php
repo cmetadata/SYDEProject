@@ -21,7 +21,7 @@
   	</div>
 	<hr/>
 
-	<a href="/bills/show">
+	<a href="/patient-bills/show">
 	<div class="object-div grey-back">
 	    <table width="100%">
 	    	<tr>
