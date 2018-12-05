@@ -35,6 +35,10 @@ Route::get('/reports/mortality-rates', function () {
 	return view('reports.mortality-rates');
 });
 
+Route::get('/reports/daily-revenue', function () {
+	return view('reports.daily-revenue');
+});
+
 
 
 //Route::get('/mortalityReports', 'MortalityReport@index');
@@ -74,7 +78,7 @@ Route::get('/cost-centres', 'CostCentreController@index');
 Route::get('/cost-centres/edit', 'CostCentreController@edit');
 
 //PATIENT BILLS
-Route::get('/bills/create', 'PatientBillController@create');
+Route::get('/patient-bills/create', 'PatientBillController@create');
 Route::get('/patient-bills/show', 'PatientBillController@show');
 Route::get('/patient-bills', 'PatientBillController@index');
 Route::get('/patient-bills/edit', 'PatientBillController@edit');

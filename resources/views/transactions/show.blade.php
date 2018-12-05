@@ -7,7 +7,7 @@
 	</div>
 
     <a class="btn btn-default grey-back" onclick="getConfirmation();" >Delete Transaction</a>
-    <a class="btn btn-default grey-back" href="/rooms/edit">Edit Transaction</a>
+    <a class="btn btn-default grey-back" href="/transactions/edit">Edit Transaction</a>
 
     <hr/>
     <p>Display transaction information here</p>

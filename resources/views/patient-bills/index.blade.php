@@ -5,7 +5,7 @@
 	<div>
 	    <div class='btn-toolbar pull-right'>
 	        <div class='btn-group'>
-	            <a class="btn btn-default new-button grey-back" href="/bills/create">New Bill</a>
+	            <a class="btn btn-default new-button grey-back" href="/patient-bills/create">New Bill</a>
 	        </div>
 	    </div>
 	    <h1 class="content-header grey-back">Patient Bills</h1>
@@ -21,7 +21,7 @@
   	</div>
 	<hr/>
 
-	<a href="/bills/show">
+	<a href="/patient-bills/show">
 	<div class="object-div grey-back">
 	    <table width="100%">
 	    	<tr>
