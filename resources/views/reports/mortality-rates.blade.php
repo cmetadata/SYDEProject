@@ -9,6 +9,7 @@
 			<h1 class="title"><b>Mortality Rates</b></h1>
 		</td>
 	</tr>
+	<hr>
 </table>
 
 
@@ -26,7 +27,7 @@
 
 <table width="100%">
 	<br>
-	<hr>
+
 
 	<tr>
 		<td width="15%" align="left">Rose</td>
