@@ -46,7 +46,7 @@
 				<td>2014/10/02</td>
 	    	</tr>
 	    	<tr>
-				<td>101</td>
+				<td></td>
 				<td>B</td>
 				<td>SP</td>
 				<td>41932</td>

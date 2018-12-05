@@ -35,6 +35,10 @@ Route::get('/reports/mortality-rates', function () {
 	return view('reports.mortality-rates');
 });
 
+Route::get('/reports/daily-revenue', function () {
+	return view('reports.daily-revenue');
+});
+
 
 
 //Route::get('/mortalityReports', 'MortalityReport@index');
