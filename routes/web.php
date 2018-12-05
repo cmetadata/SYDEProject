@@ -35,6 +35,14 @@ Route::get('/reports/mortality-rates', function () {
 	return view('reports.mortality-rates');
 });
 
+Route::get('/reports/revenue-analysis', function () {
+	return view('reports.revenue-analysis');
+});
+
+Route::get('/reports/healthcare-associated-incident', function () {
+	return view('reports.healthcare-associated-incident');
+});
+
 Route::get('/reports/daily-revenue', function () {
 	return view('reports.daily-revenue');
 });

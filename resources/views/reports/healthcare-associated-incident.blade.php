@@ -9,7 +9,9 @@
 			<h1 class="title"><b>Health Care-Associated Incident</b></h1>
 		</td>
 	</tr>
+	<hr>
 </table>
+
 
 <table width="100%" class="grey-back">
 	<br>
@@ -23,7 +25,6 @@
 		<td width="10%" align="left">Gender</td>
 		<td width="20%" align="left">Injury</td>
 	</tr> 
-	<hr>
 </table>
 
 <table width="100%">
@@ -81,12 +82,13 @@
 		<td width="20%" align="left">Gave wrong medication</td>
 	</tr>
 </table>
-<table width="100%">
+
+<table width="100%" class="grey-back">
 	<br>
 
 	<tr>
 		<td width="70%" align="left">Total Injuries</td>
-		<td width="30%" align="right">4</td>
+		<td width="30%" align="left">4</td>
 	</tr>
 
 </table>

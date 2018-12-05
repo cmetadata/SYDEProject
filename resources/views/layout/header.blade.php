@@ -52,7 +52,7 @@
           <li><a class="dropdown-item" href="/reports/revenue-analysis">Revenue Analysis</a></li>
           <li><a class="dropdown-item" href="/reports/room-utilization">Room Utilization</a></li>
           <li><a class="dropdown-item" href="/reports/daily-revenue">Daily Revenue</a></li>
-          <li><a class="dropdown-item" href="/reports/healthcare-associated-incidents">Healthcare Associated Incident</a></li>
+          <li><a class="dropdown-item" href="/reports/healthcare-associated-incident">Healthcare Associated Incident</a></li>
           <li><a class="dropdown-item" href="/reports/mortality-rates">Mortality Rates</a></li>
         </ul>
       </li>    
