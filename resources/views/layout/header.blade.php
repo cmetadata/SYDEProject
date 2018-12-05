@@ -14,11 +14,10 @@
             function getConfirmation(){
                var retVal = confirm("Are you sure you want to delete this?");
                if( retVal == true ){
-                  document.write ("User wants to delete!");
+                  window.location.replace("/");
                   return true;
                }
                else{
-                  document.write ("User does not want to delete!");
                   return false;
                }
             }
